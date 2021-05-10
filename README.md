@@ -1,2 +1,2 @@
 # rsschool-cv
-[go to my CV][https://github.com/Kelgreem/rsschool-cv/tree/gh-pages]
+[go to my CV][https://kelgreem.github.io/]
