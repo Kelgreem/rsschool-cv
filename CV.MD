@@ -3,9 +3,10 @@
 3. I want to learn and improve in the kotlin lang, which was in the tone of my brain, and also implement my ideas on Android. 
 4. Now i know the basics: Pascal and Delphi, c++, c#, java, HTML, JS.
 5. 
+
 //(JS code)
 // this function will animate the virtual pendulum when it is hit by a bullet
-<    function animation(args) { 
+function animation(args) { 
 
 	var $ = {
 		radius  :     250 
@@ -18,16 +19,16 @@
             
            var p1 = document.getElementById('u0_pul');
            
-   var u0_a = p1.value;
+    var u0_a = p1.value;
     u0_a = Number(u0_a);        
             var p2 = document.getElementById('m_pul');
-  var  m_pul = p2.value;
+    var  m_pul = p2.value;
     m_pul = Number(m_pul);
             var p3 = document.getElementById('M2_pul');
-  var   M2_pul = p3.value;
+    var   M2_pul = p3.value;
     M2_pul = Number(M2_pul);
             var p4 = document.getElementById('l_pul');
-  var   l_pul = p4.value;
+    var   l_pul = p4.value;
     l_pul = Number(l_pul);
                      
     v0_min = ((M2_pul+m_pul)*Math.sqrt(4*g*l_pul))/m_pul;
@@ -112,7 +113,7 @@
           but3.disabled = false; 
 
     }
-})();
+    })();
           clearInterval(setIntervalID);
         }     
                 
@@ -120,7 +121,7 @@
             
 	}, u0_mayat_pul)
                   
-}    >
+    }  
 
 6. foo...
 
