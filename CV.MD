@@ -16,9 +16,9 @@
 	s = 2 * Math.PI / 180; 
             
             
-           var p1 = document.getElementById('u0_pul');
+           var p5 = document.getElementById('u0_pul');
            
-    var u0_a = p1.value;
+    var u0_a = p5.value;
     u0_a = Number(u0_a);        
             var p2 = document.getElementById('m_pul');
     var  m_pul = p2.value;
