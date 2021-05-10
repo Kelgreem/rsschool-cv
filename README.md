@@ -1,2 +1,2 @@
 # rsschool-cv
- for CV
+[go to my CV][https://github.com/Kelgreem/rsschool-cv/tree/gh-pages]
