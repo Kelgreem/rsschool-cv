@@ -5,7 +5,7 @@
 5. 
 //(JS code)
 // this function will animate the virtual pendulum when it is hit by a bullet
-<    function animation(args) { >
+<    function animation(args) { 
 
 	var $ = {
 		radius  :     250 
@@ -120,7 +120,7 @@
             
 	}, u0_mayat_pul)
                   
-}    
+}    >
 
 6. foo...
 
