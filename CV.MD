@@ -4,10 +4,7 @@
 4. Now I know the basics: Pascal and Delphi, c++, c#, java, HTML, JS.
 5. 
 
-    //(JS code)  
     
-    // this function will animate the virtual pendulum when it is hit by a bullet
-
     function animation(args) { 
 
 	var $ = {
