@@ -5,6 +5,7 @@
 5. 
 
     //(JS code)  
+    
     // this function will animate the virtual pendulum when it is hit by a bullet
 
     function animation(args) { 
