@@ -3,8 +3,9 @@
 3. I want to learn and improve in the kotlin lang, which was in the tone of my brain, and also implement my ideas on Android. 
 4. Now i know the basics: Pascal and Delphi, c++, c#, java, HTML, JS.
 5. 
-//(JS code) 
-function animation(args) { // this function will animate the virtual pendulum when it is hit by a bullet
+//(JS code)
+// this function will animate the virtual pendulum when it is hit by a bullet
+<    function animation(args) { >
 
 	var $ = {
 		radius  :     250 
@@ -16,6 +17,7 @@ function animation(args) { // this function will animate the virtual pendulum wh
             
             
            var p1 = document.getElementById('u0_pul');
+           
    var u0_a = p1.value;
     u0_a = Number(u0_a);        
             var p2 = document.getElementById('m_pul');
@@ -117,6 +119,9 @@ function animation(args) { // this function will animate the virtual pendulum wh
       } 
             
 	}, u0_mayat_pul)
-            
-          
+                  
 }
+
+6. foo...
+
+
