@@ -127,7 +127,7 @@
 
 6. nothing...
 7. nothing  too...
-8. school, university.
+8. school, university. _I understand this is not enough_
 
 
 
